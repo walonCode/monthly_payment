@@ -79,25 +79,12 @@ No configuration or environment files are required for this project.
 .
 ├── .gitignore               # Git ignore file.
 ├── go.mod                   # Go module definitions.
-├── main.go                  # Main entry file of the application.
+├── main.go                  # Main entry file of the app.
 └── tmp                      # Directory for temporary use.
-     └── main
 ```
-
-## Contribution
-
-Contributions are welcome! Please adhere to the contribution guidelines when submitting pull requests.
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-name`
-3. Make your changes and commit them: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request.
 
 ## Authors
 
 - **walonCode** - [GitHub @walonCode](https://github.com/walonCode)
 
 ---
-
-*Your cooperation and feedback are highly appreciated!*
